@@ -1,0 +1,5 @@
+package Pitagora;
+
+public class Triangolo_Retangolo {
+	private double cat1;
+}

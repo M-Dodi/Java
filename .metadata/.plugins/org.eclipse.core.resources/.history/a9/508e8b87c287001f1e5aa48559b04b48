@@ -1,0 +1,18 @@
+
+public class Esercizio {
+
+	public static void main(String[] args) {
+		/* TODO Auto-generated method stub
+		
+		*Realizare una classe Compiuter con i seguenti
+		*attributi(Prezzo, Peso, Dimensioni(larg,alt,prof)
+		*Produttore
+		*Anno di produzione
+		*nel main creare degli oggetti di tipo Compiuter
+		*e stampare il loro contenuto
+		*usando getter e setter ecostruttore generati da eclipse
+		*
+		*/
+	}
+
+}
